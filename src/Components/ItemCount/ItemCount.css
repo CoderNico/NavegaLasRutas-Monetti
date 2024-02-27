@@ -1,0 +1,19 @@
+.Controls{
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
+.mas{
+    padding: 10px;
+
+}
+.agregar{
+    justify-content: center;
+    display: flex;
+    padding: 10px;
+}
+.Number{
+    justify-content: center;
+    text-align: center;
+    margin: 10px;
+}
